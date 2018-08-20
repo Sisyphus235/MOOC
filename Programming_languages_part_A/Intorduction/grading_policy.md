@@ -1,0 +1,13 @@
+This reading is repeated in the Course Resources tab so that you can more easily find it throughout the course.
+
+This information is also discussed in a video, with a few more very minor details here -- and with the video containing rationale not repeated here.
+
+From your instructor's perspective, grades are far less important than everyone learning as much as they can and getting out of the course what they seek to gain, but at the same time, we aim to create a challenging course where completion indicates learning real, important, university-level material.
+
+Programming Languages Part A has 3 homework assignments and 1 exam. Each contributes 1/4 to the overall grade. For the homework assignments, most of the grade is assigned by an auto-grader, but some is assigned via peer assessment. You have to turn in your assignments separately for auto-grading and peer assessment, and you must do the peer assessment. The "passing" threshold for the auto-grader portions and the exam is 80%. For peer assessment, participation suffices (the threshold is low enough it is basically not possible not to meet it). When submitting multiple times, your grade is the maximum across submissions.
+
+To prevent using the auto-grader or exam results as a debugging tool, we limit submissions to one per day. (Technically, it is 22 hours to make things a little more convenient in some situations.) This is much more lenient than in a typical university setting (where you submit once, ever) or in prior instantiations of this MOOC (where you could basically submit at most twice). The goal is for you to gain your own confidence in your solutions and work on your own to master the material. However, no policy is perfect and this submission rate is particularly unfortunate in situations where you upload the wrong file or are struggling to understand why your submission isn't readable by the auto-grader for some reason. We apologize in advance for any frustration and the need in these situations to wait a day before trying out what you believe will solve the problem. The "pretend Homework 0" in Week 1 may be helpful in these situations.
+
+Part of the honor code for this course is not posting anywhere (in discussion forums, on the web, etc.) solutions to the homeworks or other information that circumvents the intellectual challenge of them. Doing so is unfair to other learners.
+
+We will edit this document as needed as additional questions arise. Again, our goal is not for the policy to seem scary or onerous, but rather to provide a challenging and enriching learning environment for everyone.

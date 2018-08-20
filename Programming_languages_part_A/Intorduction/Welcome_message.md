@@ -1,0 +1,13 @@
+Thank you for signing up for Programming Languages on Coursera. This is a challenging course that we hope will change the way you look at programming forever. Many people have enjoyed the course and found it to be one of the most challenging and rewarding MOOCs. A lot of preparation by a lot of people has gone into the course, and we hope you are excited to engage with the beautiful topics that we will explore together.
+
+Before you dive into the course material, please take about an hour to familiarize yourself with the course using the videos and readings in this module. In terms of content, we describe recommended background that is worth your careful consideration. In terms of course policies, we do a few things differently than many Coursera MOOCs that we want to be clear about upfront. We know it is normal to skim and skip things on the Internet, but we really think you need all this logistical information, and we work hard to label "optional" anything that we think you can skip.
+
+In terms of software, there is work to do to install everything you will need -- those details are in the next module and you can either do them right away or wait until you have watched a few videos in the first "real" module. In either case, you need to install the software before working on Homework 1.
+
+Here is a to-do list to help guide you through this initial phase. Some slightly different orders may work.
+
+Watch the course-introduction videos in this module to understand the course motivation, assumed background, and logistics.
+Read the readings on more detailed course policies and additional perspective -- parts you may not need are clearly labeled.
+Get the software we need for "Programming Languages, Part A" installed. We know the instructions can be a bit intimidating (covering various operating systems and options), but going through them carefully and patiently will hopefully not be too time-consuming.
+Play around with Homework 0. This fake homework is entirely optional and will have no impact on grades. It is an opportunity to get used to the format of the homeworks in the course and how to submit them. You may prefer to practice turning in this fake homework (if you choose to do so at all) after covering some of the Section 1 material since Homework 0 will make more sense after seeing some of the course content. Before Section 1, we do not expect the code to make sense, but understanding the code is not necessary.
+Proceed to Section 1 and dive in. Although Section 1 and Homework 1 is listed in "week 2", we advise starting it this week so that you have more than one week to complete it while staying on schedule.
