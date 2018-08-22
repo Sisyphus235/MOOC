@@ -15,4 +15,10 @@ REPL: read-eval-print-loop
 ~5 means -5, and minus sign cannot be assigned in the first place.  
 
 # shadowing  
+What matters is the value of a variable rather than how the result is created.  
 
+# functions informally  
+type-checking of fuctions: pow = fn : int * int -> int  
+
+# functions formally  
+a function is already a value, default as 0.  
