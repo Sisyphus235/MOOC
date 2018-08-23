@@ -1,3 +1,15 @@
+# Reading materials  
+The course aims to prepare one to be a better software developer.  
+ML program is a sequence of bindings. Step 1: type checking; Step 2: evaluation.  
+In ML, each binding adds first to static environment for type checking, and then to dynamic environment for evaluation.  
+ML supports tuples by allowing any number of parts. And it can be nested however you want, like (7, (true, 9)) with type of (int * (bool * int)).  
+ML supports list, with hd(return first element) and tl(return all elements excepet first one) as arguments.  
+Functions that make and use lists are almost always recursive because a list has an unknown length.  
+A let-expression lets us have local variables.  
+logical and: andalso; logical or: orelse; logical negation: not; logical equal: =; logical not equal: <>.  
+
+
+
 # ML variable bindings and expressions  
 - 1.static environment: type-checking
 - 2.dynamic environment: value bindings  
@@ -22,3 +34,5 @@ type-checking of fuctions: pow = fn : int * int -> int
 
 # functions formally  
 a function is already a value, default as 0.  
+
+# 
