@@ -35,4 +35,18 @@ type-checking of fuctions: pow = fn : int * int -> int
 # functions formally  
 a function is already a value, default as 0.  
 
-# 
+# pairs and other tuples  
+#1 e and #2 e represent the first and second piece in a pair.  
+```  
+val x = (3,(4,(5,6)));
+val y = (#2x,(#1x,#2(#2x)));
+val ans = (#2y,4);
+
+analysis:  
+val y = ((4,(5,6)), (3,(5,6)))
+val ans = ((3,(5,6)),4)
+```  
+
+# introducing lists  
+
+
