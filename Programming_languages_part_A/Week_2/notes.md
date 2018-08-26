@@ -48,5 +48,12 @@ val ans = ((3,(5,6)),4)
 ```  
 
 # introducing lists  
+val x = [7,8,9];  
+5::6::x;  -- "::" pronounces as cons on 
+result is [5,6,7,8,9]  
+null e, where e is a list, can test whether e is empty. If e is empty, null e is true, else false.  
+hd e, means the first piece in e.  
+tl e, means the rest pieces of e except the first piece.  
+
 
 
