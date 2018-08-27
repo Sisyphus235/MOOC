@@ -55,5 +55,29 @@ null e, where e is a list, can test whether e is empty. If e is empty, null e is
 hd e, means the first piece in e.  
 tl e, means the rest pieces of e except the first piece.  
 
+# list functions  
+recursion methods are widely applied in the lectures.
+```sml
+fun sum_list(xs : int list) = 
+	if null xs
+	then 0
+	else hd(xs) + sum_list(tl(xs))
+
+fun countdown(x : int) = 
+	if x=0
+	then []
+	else x :: countdown(x-1)
+
+fun append(xs : int list, ys: int list) = 
+	if null xs
+	then ys
+	else hd(xs) :: append(tl(xs), ys)
+```
+
+
+# let expressions  
+let expressions bring in scope conception, enabling local variables.  
+
+
 
 
