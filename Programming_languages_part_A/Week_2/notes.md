@@ -78,6 +78,40 @@ fun append(xs : int list, ys: int list) =
 # let expressions  
 let expressions bring in scope conception, enabling local variables.  
 
+# nested functions
+define functions inside function as private functions.  
 
+# let and efficiency  
+watch out for recursion.  
 
+# options
+t option is a type for any type t  
+None has type 'a option  
+SOME e has type t option if e has type t  
+isSome has type 'a option -> bool  
+valOf has type 'a option -> 'a 
+
+# Booleans and comparisons  
+e1 andalso e2 means  
+```
+if e1
+then e2
+else false
+```  
+e1 orelse e2 means  
+```
+if e1
+then true
+else e2
+```  
+not e1 means   
+```
+if e1
+then false
+else true
+```  
+comparisons: = <> > < >= <=  
+= <> requires "equality type" (real is not equality type)  
+
+# Benefits of no mutation  
 
