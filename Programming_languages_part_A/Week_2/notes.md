@@ -114,4 +114,17 @@ comparisons: = <> > < >= <=
 = <> requires "equality type" (real is not equality type)  
 
 # Benefits of no mutation  
+ML has no mutation, making aliases easier to be clarified.  
+
+# Java mutation  
+Java allows mutation, meaning that copy of a list can change the elements in place, leading to leaking risks.  
+
+# Pieces of a language  
+When learning a programming language, there are five things to check:  
+1.syntax: How do you wirte language constructs?  
+2.semantics: What do programs mean?(Evaluation rules)  
+3.idioms: What are typical patterns for using language features to express your computation?  
+4.libraries: What facilities does the language provide "standard" (E.g. file access, data structures)?  
+5.tools: What do language implementations provide to make your job easier? (E.g. REPL, debugger, code formatter)  
+
 
