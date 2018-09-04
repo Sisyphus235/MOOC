@@ -65,4 +65,4 @@ C-h: Hitting this will display a short message in the minibuffer: \verb|C-h (Typ
 C-h b: Key bindings. This lists all key bindings that are valid for the current mode. Note that key bindings change from mode to mode.
 C-h a: Command apropos. After typing \verb|C-h|C-h a you can type a symbol and a buffer will appear that lists all symbols and functions that match that phrase.
 
-
+C-c C-s run sml codes in Emacs  

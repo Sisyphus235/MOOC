@@ -3,10 +3,22 @@
 (* To run the test, add a new line to the top of this file: use "homeworkname.sml"; *)
 (* All the tests should evaluate to true. For example, the REPL should say: val test1 = true : bool *)
 
+use "hw1.sml";
 
-val test1 = is_older ((1,2,3),(2,3,4)) = true
+val test1_1 = is_older ((1,2,3),(2,3,4)) = true
+val test1_2 = is_older ((2,2,3),(2,3,4)) = true
+val test1_3 = is_older ((2,3,3),(2,3,4)) = true
+val test1_4 = is_older ((2,3,4),(2,3,4)) = false
+val test1_5 = is_older ((3,3,3),(2,3,4)) = false
+val test1_6 = is_older ((2,4,3),(2,3,4)) = false
+val test1_7 = is_older ((2,3,5),(2,3,4)) = false
 
-val test2 = number_in_month ([(2012,2,28),(2013,12,1)],2) = 1
+val test2_1 = number_in_month ([(2012,2,28),(2013,12,1)],2) = 1
+val test2_2 = number_in_month ([(2012,2,28),(2013,2,1)],2) = 2
+val test2_3 = number_in_month ([(2012,1,28),(2013,12,1)],2) = 0
+val test2_4 = number_in_month ([],2) = 0
+
+(* 
 
 val test3 = number_in_months ([(2012,2,28),(2013,12,1),(2011,3,31),(2011,4,28)],[2,3,4]) = 3
 
@@ -24,4 +36,5 @@ val test9 = what_month 70 = 3
 
 val test10 = month_range (31, 34) = [1,2,2,2]
 
-val test11 = oldest([(2012,2,28),(2011,3,31),(2011,4,28)]) = SOME (2011,3,31)
+val test11 = oldest([(2012,2,28),(2011,3,31),(2011,4,28)]) = SOME (2011,3,31) 
+*)
