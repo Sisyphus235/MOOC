@@ -78,10 +78,11 @@ fun number_before_reaching_sum (sum: int, ls: int list) =
     end	
 		
 fun what_month (day: int) =
-    let val days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-	val pre = number_before_reaching_sum(day, days)
+    let 
+	    val days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+		val pre = number_before_reaching_sum(day, days)
     in
-	pre + 1
+		pre + 1
     end
 
 fun month_range (day1: int, day2: int) =
@@ -100,9 +101,9 @@ fun oldest (ds: (int * int * int) list) =
 		else
 		    let val tl_ans = oldest_nonempty(tl(ds))
 		    in
-			if is_older(hd(ds), tl_ans)
-			then hd(ds)
-			else tl_ans
+				if is_older(hd(ds), tl_ans)
+				then hd(ds)
+				else tl_ans
 		    end
 	in
 	    SOME (oldest_nonempty ds)
