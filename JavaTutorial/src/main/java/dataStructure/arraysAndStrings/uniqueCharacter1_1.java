@@ -20,5 +20,13 @@ public class uniqueCharacter1_1 {
             System.out.println(val);
         }
         System.out.println(character.charAt(0) - 'a');
+        System.out.println("-------------------------");
+        String val = "hello";
+        for (int i = 0; i < val.length(); i++) {
+            int cha = val.charAt(i);
+            System.out.println(cha);
+        }
+
     }
 }
+

@@ -32,8 +32,9 @@ public class isPermutation1_3 {
 
     public static void main(String args[]) {
         String a = "hello";
-        String b = "ehlloi";
+        String b = "ehlli";
         System.out.println(permutation1(a, b));
+        System.out.println(permutation2(a, b));
         char[] content = a.toCharArray();
         for (int i = 0; i < content.length; i++) {
             System.out.println(content[i]);
@@ -48,6 +49,12 @@ public class isPermutation1_3 {
         int[] letters = new int[256];
         for (char c : content) {
             System.out.println(letters[c]);
+        }
+        System.out.println("------------");
+        String s = "hello world!";
+        char[] s_array = s.toCharArray();
+        for(char c: s_array){
+            System.out.print(c);
         }
     }
 }
