@@ -52,11 +52,11 @@
       <file leaf-file-name="compressString1_5.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/arraysAndStrings/compressString1_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+            <state relative-caret-position="269">
+              <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="21" />
               <folding>
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#621#622#0" expanded="true" />
+                <element signature="e#2056#2057#0" expanded="true" />
+                <element signature="e#2113#2114#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -390,10 +390,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-20" />
-    <option name="y" value="31" />
-    <option name="width" value="1276" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="-938" />
+    <option name="width" value="1280" />
     <option name="height" value="777" />
   </component>
   <component name="ProjectView">
@@ -708,7 +708,7 @@
       <workItem from="1541647908406" duration="1752000" />
       <workItem from="1542336372659" duration="8569000" />
       <workItem from="1542415392326" duration="164000" />
-      <workItem from="1542640359195" duration="4807000" />
+      <workItem from="1542640359195" duration="6266000" />
     </task>
     <servers />
   </component>
@@ -745,7 +745,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24470000" />
+    <option name="totallyTimeSpent" value="25929000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -757,7 +757,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="777" extended-state="6" />
+    <frame x="10" y="-938" width="1280" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1007,11 +1007,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/dataStructure/arraysAndStrings/compressString1_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="49" lean-forward="false" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+        <state relative-caret-position="269">
+          <caret line="62" column="21" lean-forward="false" selection-start-line="62" selection-start-column="16" selection-end-line="62" selection-end-column="21" />
           <folding>
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#2056#2057#0" expanded="true" />
+            <element signature="e#2113#2114#0" expanded="true" />
           </folding>
         </state>
       </provider>
